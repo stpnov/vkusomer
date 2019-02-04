@@ -1,2 +1,5 @@
 # vkusomer
-Vkusomer (artlebedev.ru) cheat
+Vkusomer (vkusomer.artlebedev.ru) cheat
+
+
+Change HTTP HEADER to your
